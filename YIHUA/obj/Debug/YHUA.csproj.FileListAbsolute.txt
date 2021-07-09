@@ -1,0 +1,20 @@
+d:\Dokumenty\Visual Studio 2017\Projects\YHUA\YHUA\bin\Debug\YHUA.exe.config
+d:\Dokumenty\Visual Studio 2017\Projects\YHUA\YHUA\bin\Debug\YHUA.exe
+d:\Dokumenty\Visual Studio 2017\Projects\YHUA\YHUA\bin\Debug\YHUA.pdb
+d:\Dokumenty\Visual Studio 2017\Projects\YHUA\YHUA\obj\Debug\YHUA.csprojResolveAssemblyReference.cache
+d:\Dokumenty\Visual Studio 2017\Projects\YHUA\YHUA\obj\Debug\YHUA.Form1.resources
+d:\Dokumenty\Visual Studio 2017\Projects\YHUA\YHUA\obj\Debug\YHUA.Properties.Resources.resources
+d:\Dokumenty\Visual Studio 2017\Projects\YHUA\YHUA\obj\Debug\YHUA.csproj.GenerateResource.Cache
+d:\Dokumenty\Visual Studio 2017\Projects\YHUA\YHUA\obj\Debug\YHUA.exe
+d:\Dokumenty\Visual Studio 2017\Projects\YHUA\YHUA\obj\Debug\YHUA.pdb
+d:\Dokumenty\Visual Studio 2017\Projects\YHUA\YHUA\obj\Debug\YHUA.Datalogging.resources
+C:\Users\Michal\Desktop\YHUA\YHUA\bin\Debug\YHUA.exe.config
+C:\Users\Michal\Desktop\YHUA\YHUA\bin\Debug\YHUA.exe
+C:\Users\Michal\Desktop\YHUA\YHUA\bin\Debug\YHUA.pdb
+C:\Users\Michal\Desktop\YHUA\YHUA\obj\Debug\YHUA.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\YHUA\YHUA\obj\Debug\YHUA.Datalogging.resources
+C:\Users\Michal\Desktop\YHUA\YHUA\obj\Debug\YHUA.Form1.resources
+C:\Users\Michal\Desktop\YHUA\YHUA\obj\Debug\YHUA.Properties.Resources.resources
+C:\Users\Michal\Desktop\YHUA\YHUA\obj\Debug\YHUA.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\YHUA\YHUA\obj\Debug\YHUA.exe
+C:\Users\Michal\Desktop\YHUA\YHUA\obj\Debug\YHUA.pdb
